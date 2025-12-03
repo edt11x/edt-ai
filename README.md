@@ -6,4 +6,4 @@
 *   $ python3 -m venv myenv
 * You need to install openai
 *   $ pip instal openai
-
+* Openrouter requires a payment method
